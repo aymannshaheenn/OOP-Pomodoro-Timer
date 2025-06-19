@@ -64,16 +64,6 @@
 3. **Compile and Run** the `main()` function.
 4. **Follow the menu interface** to create an account and begin managing your time efficiently.
 
-### 📁 File Structure
-├── main.cpp                 # Entire project in one file
-├── users.txt               # Stores usernames and hashed passwords
-├── tasks_<username>.txt    # User-specific task list
-├── history_<username>.txt  # Session history
-├── completed_<username>.txt# Completed sessions
-├── goals_<username>.txt    # Goals and their statuses
-├── xp_<username>.txt       # XP and rank
-├── dailygoal_<username>.txt# Daily session goal progress
-
 ### 📚 OOP Concepts Demonstrated
 - Encapsulation (private members with public interfaces)
 
