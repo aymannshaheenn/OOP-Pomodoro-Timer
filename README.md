@@ -64,13 +64,7 @@
 3. **Compile and Run** the `main()` function.
 4. **Follow the menu interface** to create an account and begin managing your time efficiently.
 
-```bash
-g++ main.cpp -o PomodoroApp
-./PomodoroApp
-📁 File Structure
-bash
-Copy
-Edit
+##📁 File Structure
 ├── main.cpp                 # Entire project in one file
 ├── users.txt               # Stores usernames and hashed passwords
 ├── tasks_<username>.txt    # User-specific task list
@@ -79,25 +73,27 @@ Edit
 ├── goals_<username>.txt    # Goals and their statuses
 ├── xp_<username>.txt       # XP and rank
 ├── dailygoal_<username>.txt# Daily session goal progress
-📚 OOP Concepts Demonstrated
-Encapsulation (private members with public interfaces)
 
-Inheritance & Polymorphism (Timer, TraditionalTimer, CustomTimer)
+##📚 OOP Concepts Demonstrated
+-Encapsulation (private members with public interfaces)
 
-Composition (User has Tasks, Goals, History, Achievements)
+-Inheritance & Polymorphism (Timer, TraditionalTimer, CustomTimer)
 
-Abstraction (User doesn’t manage file I/O directly)
+-Composition (User has Tasks, Goals, History, Achievements)
 
-Dynamic memory & File Handling
-✅ Possible Future Improvements
-GUI version using Qt or SFML.
+-Abstraction (User doesn’t manage file I/O directly)
 
-Multi-user support with admin panel.
+-Dynamic memory & File Handling
 
-Export data (CSV, JSON).
+##✅ Possible Future Improvements
+-GUI version using Qt or SFML.
 
-Notification sounds with PlaySound.
+-Multi-user support with admin panel.
 
-🙋‍♀️ Author
+-Export data (CSV, JSON).
+
+-Notification sounds with PlaySound.
+
+##🙋‍♀️ Author
 Ayman Shaheen
 Second Semester | BS Data Science
