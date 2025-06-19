@@ -64,7 +64,7 @@
 3. **Compile and Run** the `main()` function.
 4. **Follow the menu interface** to create an account and begin managing your time efficiently.
 
-## 📁 File Structure
+### 📁 File Structure
 ├── main.cpp                 # Entire project in one file
 ├── users.txt               # Stores usernames and hashed passwords
 ├── tasks_<username>.txt    # User-specific task list
@@ -74,7 +74,7 @@
 ├── xp_<username>.txt       # XP and rank
 ├── dailygoal_<username>.txt# Daily session goal progress
 
-## 📚 OOP Concepts Demonstrated
+### 📚 OOP Concepts Demonstrated
 - Encapsulation (private members with public interfaces)
 
 - Inheritance & Polymorphism (Timer, TraditionalTimer, CustomTimer)
@@ -85,7 +85,7 @@
 
 - Dynamic memory & File Handling
 
-## ✅ Possible Future Improvements
+### ✅ Possible Future Improvements
 - GUI version using Qt or SFML.
 
 - Multi-user support with admin panel.
@@ -94,6 +94,6 @@
 
 - Notification sounds with PlaySound.
 
-## 🙋‍♀️ Author
+### 🙋‍♀️ Author
 Ayman Shaheen
 Second Semester | BS Data Science
